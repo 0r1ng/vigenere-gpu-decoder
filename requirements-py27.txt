@@ -1,0 +1,4 @@
+# CPU backend uses only the Python 2.7 standard library.
+# PyCUDA is optional and should only be installed after verifying compatibility
+# with your exact Python, compiler, CUDA toolkit, and NVIDIA driver versions.
+# Do not assume the latest PyCUDA release supports Python 2.7 / CUDA 12.4.
